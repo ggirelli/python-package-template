@@ -1,12 +1,12 @@
 [tool.poetry]
-name = "python-package-name"
+name = "python_package_name"
 version = "0.1.0"
 description = "description"
 authors = ["Gabriele Girelli <gigi.ga90@gmail.com>"]
 license = "MIT"
 readme = "README.md"
-homepage = "https://github.com/ggirelli/package-name"
-repository = "https://github.com/ggirelli/package-name"
+homepage = "..."
+repository = "..."
 keywords = ["python"]
 classifiers = [
     "Development Status :: 1 - Planning",
@@ -26,7 +26,7 @@ flake8 = "^4.0.1"
 # "radiant" = "radiantkit.scripts.radiant:main"
 
 [tool.vulture]
-paths = ["package-name"]
+paths = ["python_package_name"]
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

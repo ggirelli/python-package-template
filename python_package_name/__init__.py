@@ -3,7 +3,7 @@
 @contact: gigi.ga90@gmail.com
 """
 
-#from package-name import *
+from python_package_name import something
 
 from importlib.metadata import version
 
