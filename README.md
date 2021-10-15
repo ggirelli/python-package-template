@@ -13,6 +13,11 @@
 
 # python-package-name
 
+![](https://img.shields.io/librariesio/github/ggirelli/python-package-template.svg?style=flat) ![](https://img.shields.io/github/license/ggirelli/python-package-template.svg?style=flat)  
+![](https://github.com/ggirelli/python-package-template/workflows/Python%20package/badge.svg?branch=main&event=push)
+![](https://img.shields.io/github/release/ggirelli/python-package-template.svg?style=flat) ![](https://img.shields.io/github/release-date/ggirelli/python-package-template.svg?style=flat) ![](https://img.shields.io/github/languages/code-size/ggirelli/python-package-template.svg?style=flat)  
+![](https://img.shields.io/github/watchers/ggirelli/python-package-template.svg?label=Watch&style=social) ![](https://img.shields.io/github/stars/ggirelli/python-package-template.svg?style=social)
+
 Short description. Et amet anim aliqua culpa sint. In commodo cupidatat nostrud ea velit dolore cupidatat ipsum aliqua ipsum ipsum. Elit elit laborum ad officia non voluptate sit sint ex incididunt anim ipsum elit quis. Cillum eu deserunt laborum sunt incididunt dolore nisi et irure est.
 
 ## Features
