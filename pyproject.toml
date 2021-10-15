@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "python-package-name"
+version = "0.1.0"
+description = "description"
+authors = ["Gabriele Girelli <gigi.ga90@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/ggirelli/package-name"
+repository = "https://github.com/ggirelli/package-name"
+keywords = ["python"]
+classifiers = [
+    "Development Status :: 1 - Planning",
+]
+include = ["CHANGELOG.md", "LICENSE"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.dev-dependencies]
+black = "^21.9b0"
+pytest = "^6.2.5"
+mypy = "^0.910"
+flake8 = "^4.0.1"
+
+[tool.poetry.scripts]
+# "radiant" = "radiantkit.scripts.radiant:main"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
