@@ -20,6 +20,7 @@ repos:
     rev: "4.0.1"
     hooks:
     -   id: flake8
+        args: ["--count", "--select=E9,F63,F7,F82", "--show-source", "--statistics"]
 -   repo:  https://github.com/jendrikseipp/vulture 
     rev: "v2.3"
     hooks:
