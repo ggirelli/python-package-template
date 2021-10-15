@@ -1,4 +1,4 @@
-### How to use this templ
+### How to use this template
 
 1. Update `pyproject.toml`.
    - Replace package name and description.
