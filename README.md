@@ -9,11 +9,13 @@
    - Replace `package-name`.
 3. Update `.github/workflows/pythonpackage.yml`.
    - Uncomment test part and correct path, if applicable.
-4. Delete this part and update README below.
+4. Delete this part and update README below. (pay extra care when updating shield badges)
 
 # python-package-name
 
-![](https://img.shields.io/librariesio/github/ggirelli/python-package-template.svg?style=flat) ![](https://img.shields.io/github/license/ggirelli/python-package-template.svg?style=flat)  
+
+
+[![DOI](https://zenodo.org/badge/417163417.svg)](https://zenodo.org/badge/latestdoi/417163417) ![](https://img.shields.io/librariesio/github/ggirelli/python-package-template.svg?style=flat) ![](https://img.shields.io/github/license/ggirelli/python-package-template.svg?style=flat)  
 ![](https://github.com/ggirelli/python-package-template/workflows/Python%20package/badge.svg?branch=main&event=push)
 ![](https://img.shields.io/github/release/ggirelli/python-package-template.svg?style=flat) ![](https://img.shields.io/github/release-date/ggirelli/python-package-template.svg?style=flat) ![](https://img.shields.io/github/languages/code-size/ggirelli/python-package-template.svg?style=flat)  
 ![](https://img.shields.io/github/watchers/ggirelli/python-package-template.svg?label=Watch&style=social) ![](https://img.shields.io/github/stars/ggirelli/python-package-template.svg?style=social)
