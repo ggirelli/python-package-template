@@ -23,7 +23,7 @@ mypy = "^0.910"
 flake8 = "^4.0.1"
 
 [tool.poetry.scripts]
-# "radiant" = "radiantkit.scripts.radiant:main"
+# "hook" = "python_package_name.scripts.module:main"
 
 [tool.vulture]
 paths = ["python_package_name"]
