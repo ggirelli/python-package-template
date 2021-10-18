@@ -27,6 +27,8 @@ flake8 = "^4.0.1"
 
 [tool.vulture]
 paths = ["python_package_name"]
+min_confidence = 80
+verbose = true
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
