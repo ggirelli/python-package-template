@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "python_package_name"
-version = "0.1.0"
+version = "1.0.1"
 description = "description"
 authors = ["Gabriele Girelli <gigi.ga90@gmail.com>"]
 license = "MIT"
@@ -23,10 +23,12 @@ mypy = "^0.910"
 flake8 = "^4.0.1"
 
 [tool.poetry.scripts]
-# "radiant" = "radiantkit.scripts.radiant:main"
+# "hook" = "python_package_name.scripts.module:main"
 
 [tool.vulture]
 paths = ["python_package_name"]
+min_confidence = 80
+verbose = true
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
