@@ -20,7 +20,7 @@ python = "^3.8"
 black = "^22.1"
 pytest = "^7.0.0"
 mypy = "^0.971"
-flake8 = "^4.0.1"
+flake8 = "^5.0.2"
 
 [tool.poetry.scripts]
 # "hook" = "python_package_name.scripts.module:main"
