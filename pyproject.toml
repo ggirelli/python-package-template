@@ -17,7 +17,7 @@ include = ["CHANGELOG.md", "LICENSE"]
 python = "^3.8"
 
 [tool.poetry.dev-dependencies]
-black = "^22.1"
+black = "^23.1"
 pytest = "^7.0.0"
 mypy = "^0.990"
 flake8 = "^5.0.2"
